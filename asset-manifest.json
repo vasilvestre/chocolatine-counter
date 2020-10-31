@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chocolatine-counter/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/chocolatine-counter/static/js/main.47176bc6.chunk.js",
+    "main.js.map": "/chocolatine-counter/static/js/main.47176bc6.chunk.js.map",
+    "runtime-main.js": "/chocolatine-counter/static/js/runtime-main.bbbd9805.js",
+    "runtime-main.js.map": "/chocolatine-counter/static/js/runtime-main.bbbd9805.js.map",
+    "static/js/2.c86eb69e.chunk.js": "/chocolatine-counter/static/js/2.c86eb69e.chunk.js",
+    "static/js/2.c86eb69e.chunk.js.map": "/chocolatine-counter/static/js/2.c86eb69e.chunk.js.map",
+    "static/js/3.56c7ece6.chunk.js": "/chocolatine-counter/static/js/3.56c7ece6.chunk.js",
+    "static/js/3.56c7ece6.chunk.js.map": "/chocolatine-counter/static/js/3.56c7ece6.chunk.js.map",
+    "index.html": "/chocolatine-counter/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/chocolatine-counter/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.c86eb69e.chunk.js.LICENSE.txt": "/chocolatine-counter/static/js/2.c86eb69e.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/chocolatine-counter/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbbd9805.js",
+    "static/js/2.c86eb69e.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.47176bc6.chunk.js"
+  ]
+}
